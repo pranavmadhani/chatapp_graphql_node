@@ -15,5 +15,5 @@ module.exports = (ctx,event) => {
           ctx.user = decoded;
         });
     }
-    return ctx;
+     return ctx;
 }
